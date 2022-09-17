@@ -1,0 +1,68 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+    /* background-image:url("https://mylivewallpapers.com/games/among-us-live-wallpaper/"); background-repeat:repeat;   */
+   background-image: url("https://static3.srcdn.com/wordpress/wp-content/uploads/2020/10/Among-Us-Desktop-Wallpaper-Backgrounds-Crewmates-Adrift.jpg?q=50&fit=crop&w=963&h=481&dpr=1.5");
+  background-color: #cccccc; 
+  
+}
+
+h1{
+color: #f5f5f5;
+font-family:  'Press Start 2P', cursive;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+  font-family:  'Press Start 2P', cursive;
+  font-size: x-small;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: 15px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.form-signin input[type="lname"] {
+  margin-bottom: 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.form-signin input[type="fname"] {
+  margin-bottom: 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.btn{
+  font-size: medium;
+}
+
+.notice{
+  width:100vw;
+}
+
+.text-muted{
+  font-size: small;
+}
