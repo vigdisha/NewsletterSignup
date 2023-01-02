@@ -16,7 +16,7 @@
       app.use(express.static("public")); 
       
         app.get("/", function(req, res){  
-            res.sendFile(__dirname + "/Signup.html")
+            res.sendFile(__dirname + "/index.html")
           });
           
           //setting up mailchimp
